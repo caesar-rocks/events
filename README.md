@@ -10,4 +10,4 @@
 
 This repository contains the documentation for the Caesar Events module.
 
-It consists in a very thing layer on top of the [https://watermill.io/](Watermill library), which is a Go library for working efficiently with message queues.
+It consists in a very thing layer on top of the [Watermill's library](https://watermill.io), which is a Go library for working efficiently with message queues.
